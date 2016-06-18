@@ -1,12 +1,12 @@
 [
     {
-        "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
-        "repository": "dockerhub",
+        "description": "Logic component",
+        "repository": "Failcode",
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
-        "displayName": "GitLab",
-        "name": "gitlab",
-        "version": "8.2.3",
+        "displayName": "Logic",
+        "name": "logic",
+        "version": "0.0.1",
         "location": "https://hub.docker.com/r/sameersbn/gitlab/",
         "type": "app"
     }, 
