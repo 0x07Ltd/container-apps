@@ -5,7 +5,7 @@
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
         "displayName": "Logic",
-        "name": "logic",
+        "name": "hub.0x07.co.uk:5000/logic",
         "version": "0.0.1",
         "location": "https://hub.docker.com/r/sameersbn/gitlab/",
         "type": "app"
